@@ -1,3 +1,6 @@
+# Code of Conduct
+[_This CoC document has been adapted from the [R-Ladies Guide CoC](https://guide.rladies.org/about/coc/)._]
+
 AsiaR is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
 This code of conduct applies to all AsiaR spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.
