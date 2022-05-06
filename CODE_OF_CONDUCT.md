@@ -3,7 +3,7 @@
 
 AsiaR is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all AsiaR spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Global Leadership Team.
+This code of conduct applies to all AsiaR spaces, including meetups, Twitter, Slack, mailing lists, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces.
 
 Some AsiaR spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -32,7 +32,7 @@ harassment purposes.
 except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.  
 
-AsiaR prioritizes marginalized people's safety over privileged people's comfort. The Global Leadership Team will not act on complaints regarding:
+AsiaR prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
 
 * 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'.
 * Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."
@@ -47,9 +47,9 @@ On Slack:
 
 ### Reporting
 
-If you are being harassed by a member/guest/participant of/at AsiaR, notice that someone else is being harassed, or have any other concerns, please contact the Global Leadership Team via reporting [at] rladies [dot] org. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member/guest/participant of/at AsiaR, notice that someone else is being harassed, or have any other concerns, please contact asiar.community [at] gmail [dot] com. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to AsiaR spaces, but if you are being harassed by a member/guest/participant of/at AsiaR outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by AsiaR members, especially the Global Leadership Team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Global Leadership Team reserves the right to exclude people from AsiaR based on their past behavior, including behavior outside AsiaR spaces and behavior towards people who are not in AsiaR.
+This code of conduct applies to AsiaR spaces, but if you are being harassed by a member/guest/participant of/at AsiaR outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by AsiaR members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. We reserve the right to exclude people from AsiaR based on their past behavior, including behavior outside AsiaR spaces and behavior towards people who are not in AsiaR.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -60,6 +60,6 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the Global Leadership Team may take any action they deem appropriate, up to and including expulsion from all AsiaR spaces and identification of the participant as a harasser to other AsiaR members or the general public.
+If a participant engages in harassing behavior, we take any action deemed appropriate, up to and including expulsion from all AsiaR spaces and identification of the participant as a harasser to other AsiaR members or the general public.
 
 This policy is licensed under the Creative Commons Zero license.
